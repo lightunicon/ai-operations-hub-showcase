@@ -239,7 +239,6 @@ Client identities, private endpoints and infrastructure details are not in this 
 
 ## Screenshots
 
-Same interfaces as the [portfolio case study](https://francescoiaforte.vercel.app/en/projects/ai-operations-hub).
 
 | Surface | |
 |---|---|
